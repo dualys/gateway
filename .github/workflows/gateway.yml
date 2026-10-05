@@ -1,4 +1,4 @@
-name: PC
+name: Gateway
 on:
   push:
     branches: ["main"]
